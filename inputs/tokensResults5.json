@@ -1,0 +1,32 @@
+[
+  {
+    "type": "IF",
+    "value": "if",
+    "line": 1
+  },
+  {
+    "type": "WHILE",
+    "value": "while",
+    "line": 2
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "True",
+    "line": 3
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "False",
+    "line": 4
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "x",
+    "line": 5
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "y",
+    "line": 6
+  }
+]

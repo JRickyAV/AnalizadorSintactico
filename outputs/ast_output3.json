@@ -1,0 +1,39 @@
+{
+  "type": "Program",
+  "statements": [
+    {
+      "type": "For",
+      "init": {
+        "type": "DeclarationWithAssignment",
+        "tipo": "int",
+        "identifier": "i",
+        "expression": {
+          "type": "Number",
+          "value": "3"
+        }
+      },
+      "condition": {
+        "type": "BinaryOp",
+        "op": "<",
+        "left": {
+          "type": "Identifier",
+          "name": "i"
+        },
+        "right": {
+          "type": "Number",
+          "value": "10"
+        }
+      },
+      "update": {
+        "type": "UnaryOp",
+        "op": "++",
+        "operand": {
+          "type": "Identifier",
+          "name": "i"
+        },
+        "is_postfix": true
+      },
+      "body": []
+    }
+  ]
+}

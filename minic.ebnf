@@ -1,0 +1,27 @@
+program         ::= { statement }
+
+statement       ::= declaration
+                  | assignment
+                  | while_loop
+                  | for_loop
+
+declaration     ::= type IDENTIFIER [ "=" expression ] ";"
+assignment      ::= IDENTIFIER "=" expression ";"
+
+while_loop      ::= "while" "(" expression ")" "{" { statement } "}"
+for_loop        ::= "for" "(" declaration_no_semicolon ";" expression ";" update ")" "{" { statement } "}"
+
+declaration_no_semicolon ::= type IDENTIFIER [ "=" expression ]
+
+update          ::= IDENTIFIER "++"
+                  | assignment
+
+expression      ::= relational_expression
+relational_expression ::= additive_expression { ("<" | ">") additive_expression }
+additive_expression   ::= term { ("+" | "-") term }
+term            ::= factor { ("*" | "/") factor }
+factor          ::= NUMBER
+                  | IDENTIFIER
+                  | "(" expression ")"
+
+type            ::= "int" | "float" | "char"

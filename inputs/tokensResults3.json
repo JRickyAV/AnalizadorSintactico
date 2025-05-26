@@ -1,0 +1,87 @@
+[
+  {
+    "type": "FOR",
+    "value": "for",
+    "line": 1
+  },
+  {
+    "type": "LPAREN",
+    "value": "(",
+    "line": 1
+  },
+  {
+    "type": "INT",
+    "value": "int",
+    "line": 1
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "i",
+    "line": 1
+  },
+  {
+    "type": "ASSIGN",
+    "value": "=",
+    "line": 1
+  },
+  {
+    "type": "NUMBER",
+    "value": "3",
+    "line": 1
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 1
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "i",
+    "line": 1
+  },
+  {
+    "type": "LESS_THAN",
+    "value": "<",
+    "line": 1
+  },
+  {
+    "type": "NUMBER",
+    "value": "10",
+    "line": 1
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 1
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "i",
+    "line": 1
+  },
+  {
+    "type": "PLUS",
+    "value": "+",
+    "line": 1
+  },
+  {
+    "type": "PLUS",
+    "value": "+",
+    "line": 1
+  },
+  {
+    "type": "RPAREN",
+    "value": ")",
+    "line": 1
+  },
+  {
+    "type": "LBRACE",
+    "value": "{",
+    "line": 1
+  },
+  {
+    "type": "RBRACE",
+    "value": "}",
+    "line": 1
+  }
+]

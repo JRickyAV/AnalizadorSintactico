@@ -1,0 +1,52 @@
+[
+  {
+    "type": "INT",
+    "value": "int",
+    "line": 1
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "y",
+    "line": 1
+  },
+  {
+    "type": "ASSIGN",
+    "value": "=",
+    "line": 1
+  },
+  {
+    "type": "NUMBER",
+    "value": "33",
+    "line": 1
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 1
+  },
+  {
+    "type": "FLOAT",
+    "value": "float",
+    "line": 2
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "xyz",
+    "line": 2
+  },
+  {
+    "type": "ASSIGN",
+    "value": "=",
+    "line": 2
+  },
+  {
+    "type": "FLOAT_LITERAL",
+    "value": "15.2",
+    "line": 2
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "WHILE",
+    "value": "while",
+    "line": 1
+  },
+  {
+    "type": "LPAREN",
+    "value": "(",
+    "line": 1
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "True",
+    "line": 1
+  },
+  {
+    "type": "RPAREN",
+    "value": ")",
+    "line": 1
+  },
+  {
+    "type": "LBRACE",
+    "value": "{",
+    "line": 1
+  },
+  {
+    "type": "RBRACE",
+    "value": "}",
+    "line": 1
+  }
+]

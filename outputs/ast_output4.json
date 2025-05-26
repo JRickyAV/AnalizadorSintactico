@@ -1,0 +1,13 @@
+{
+  "type": "Program",
+  "statements": [
+    {
+      "type": "While",
+      "condition": {
+        "type": "Identifier",
+        "name": "True"
+      },
+      "body": []
+    }
+  ]
+}

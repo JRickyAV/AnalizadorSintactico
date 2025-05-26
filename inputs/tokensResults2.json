@@ -1,0 +1,17 @@
+[
+  {
+    "type": "INT",
+    "value": "int",
+    "line": 1
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "x",
+    "line": 1
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 1
+  }
+]

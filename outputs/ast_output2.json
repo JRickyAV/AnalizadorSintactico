@@ -1,0 +1,10 @@
+{
+  "type": "Program",
+  "statements": [
+    {
+      "type": "Declaration",
+      "tipo": "int",
+      "identifier": "x"
+    }
+  ]
+}

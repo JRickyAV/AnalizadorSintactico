@@ -1,0 +1,21 @@
+{
+  "type": "Program",
+  "statements": [
+    {
+      "type": "Assignment",
+      "identifier": "y",
+      "expression": {
+        "type": "Number",
+        "value": "33"
+      }
+    },
+    {
+      "type": "Assignment",
+      "identifier": "xyz",
+      "expression": {
+        "type": "Number",
+        "value": "15.2"
+      }
+    }
+  ]
+}
