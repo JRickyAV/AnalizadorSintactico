@@ -5,7 +5,7 @@ A01562775
 
 ## Para ejecutar el analizador
 Utiliza python 3.11.2 y para ejecutar el código es de la siguiente forma 
-`python3 main.y` sigue la misma estructura de archivos de carpeta inputs donde se reciben los mismos tokens generados por el analizador léxico y carpeta outputs con los datos necesarios para proximas actividades.
+`python3 main.py` sigue la misma estructura de archivos de carpeta inputs donde se reciben los mismos tokens generados por el analizador léxico y carpeta outputs con los datos necesarios para proximas actividades.
 
 
 Este proyecto es para aprender como funciona un analizador sintactico en este caso (parser) para lenguaje mini C, como habiamos visto en la actividad anterior del análisis léxico.
